@@ -1,4 +1,4 @@
-alias ls='exa'
+alias ls='eza'
 alias ll='ls -alh'
 
 export ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE="fg=#c6c6c6"
