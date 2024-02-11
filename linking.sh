@@ -1,4 +1,4 @@
-#!/bin/s
+#!/bin/sh
 
 ln -s ./.zshrc          ~/.zshrc
 ln -s ./.wezterm.lua    ~/.wezterm.lua
