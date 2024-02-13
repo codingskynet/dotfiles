@@ -245,4 +245,3 @@ config.font_size = 15.5
 -- config.debug_key_events = true
 
 return config
-
