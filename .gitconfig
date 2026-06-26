@@ -8,3 +8,6 @@
 	rebase = true
 [rebase]
 	autoStash = true
+[user]
+	name = Taewoo An
+	email = 2046664@gmail.com

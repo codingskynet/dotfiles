@@ -1,6 +1,7 @@
 #!/bin/sh
 
-# ln -s `pwd`/.gitconfig      ~/.gitconfig
+ln -s `pwd`/.gitconfig      ~/.gitconfig
+ln -s `pwd`/.vimrc          ~/.vimrc
 ln -s `pwd`/.wezterm.lua    ~/.wezterm.lua
 ln -s `pwd`/.zshrc          ~/.zshrc
-# ln -s `pwd`/.zshrc.local    ~/.zshrc.local
+cp    `pwd`/.zshrc.local    ~/.zshrc.local
