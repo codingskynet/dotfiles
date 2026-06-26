@@ -14,3 +14,4 @@ eval "$(atuin init zsh --disable-up-arrow)"
 if [[ -f ~/.zshrc.local ]]; then
   source ~/.zshrc.local
 fi
+export PATH="$HOME/.local/bin:$PATH"

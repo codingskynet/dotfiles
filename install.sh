@@ -13,9 +13,8 @@ brew tap homebrew/cask-fonts
 brew install --cask font-jetbrains-mono
 
 # install terminal components
-brew tap homebrew/cask-versions
-brew install --cask wezterm-nightly
-brew upgrade --cask wezterm-nightly --no-quarantine --greedy-latest
+brew install --cask wezterm@nightly
+brew upgrade --cask wezterm@nightly --no-quarantine --greedy-latest
 
 brew install atuin
 brew install zsh-autosuggestions
